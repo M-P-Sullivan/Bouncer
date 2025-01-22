@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Enemy
+  - Enemy Object
+  - Shield
+  - Goal
+  - Ice
+  - Teleporter
+  - Bouncy
+  - Push
+  - Pointer
+  - Timer
+  - TargetCounter
+  - GameManager
+  - Impulse
+  - Cancel
+  - PlayerStart
+  - Targets
+  - MenuManager
+  - Stunner
+  - TeleporterExit
+  - Line
+  - InventoryItem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Player Object
+  - Enemy
+  - Enemy Object_Tangible
+  - Enemy Object_Intangible
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Unused
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1782697389
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
